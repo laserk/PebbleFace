@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "laserk@sina.com",
+    "longName": "HelloPebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HelloPebble",
+    "uuid": "71b40f20-ff98-48a9-9f4d-1b8feb1b8134",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

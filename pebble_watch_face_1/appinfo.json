@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "laserk@sina.com",
+    "longName": "Pebble Watch Face 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "BackGroundImage",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "DOS_VGA_42",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pebble Watch Face 1",
+    "uuid": "768b6a1a-59c3-4126-986e-d4f49bfbffcf",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
